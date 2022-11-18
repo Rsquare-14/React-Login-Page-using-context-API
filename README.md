@@ -1,6 +1,11 @@
 # Login and Home Page using COntext API in React
 
 This project contains an example of using context API for authenticating the users across pages.
+
+The home Page shows a bunch of news articles regarding TESLA published by different publications.
+
+It supports infinite scrolling, when you scroll down - new articles loads up automatically.
+
 <....LOGIN PAGE....>
 ![login Screen](https://user-images.githubusercontent.com/96003203/202690269-d66e69f1-9151-4c16-9401-3682948c84cf.png)
 
