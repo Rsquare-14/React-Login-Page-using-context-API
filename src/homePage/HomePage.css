@@ -1,0 +1,59 @@
+.homePage-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    background-color: #cbc8bd7a;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.welcome-msg{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.logout{
+    width: 200px;
+}
+
+.blog{
+    display: flex;
+    width: 90%;
+    background-color: #5B84B1FF;
+    margin: 20px;
+    padding: 10px 0px;
+}
+
+.blog-image{
+    max-width: 20%;
+    width: 60%;
+    object-fit: contain;
+    padding: 0px 10px;
+}
+
+.blog-data{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+}
+
+.blog-data span{
+    text-align: justify;
+    padding: 3px;
+}
+
+.blog-title{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 60%;
+  }
